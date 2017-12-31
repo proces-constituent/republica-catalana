@@ -8,9 +8,9 @@ En aquest repository es debatrà, proposarà i construirà una proposta constitu
 
 Aquests son alguns enllaços per a començar a participar.
 
-* [Digues hola]()
-* [Normes de participació]()
-* [Panell de propostes]()
-* [Incidències]()
+* [Digues hola](https://github.com/constituci-os/republica-catalana/issues/1)
+* [Normes de participació](https://github.com/constituci-os/republica-catalana/issues/2)
+* [Panell de propostes](https://github.com/constituci-os/republica-catalana/pulls)
+* [Incidències](https://github.com/constituci-os/republica-catalana/issues/3)
 
 Aquest es un grup completament anònim. Som la veu del poble, i només la veu del poble.
