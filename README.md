@@ -1,4 +1,4 @@
-# republica-catalana
+# Procés Constituent
 
 Procés constituent de la República Catalana
 
@@ -19,3 +19,12 @@ Un cop tinguis el compte creat, aqui algunes pistes.
 - [Issue](https://github.com/constituci-os/republica-catalana/issues) - Aqui posarem tota la conversa. Es tracta de discutir els punts que s'han obert, i de obrir-ne de nous. Al més estil forum.
 Obre una Issue cada vegada que vulguis proposar un nou tema de discussió. Primer de tot, busca si ja se n'està parlant en algun fil existent. Afegeix un títol, una descripció, i motiva que la gent en parli. Publica a xarxes socials per a que la gent s'impliqui al màxim.
 - [Pull Request](https://github.com/constituci-os/republica-catalana/pulls) -> De moment, dir-vos que és un mecanisme de construcció. Més endavant ja us farem una petita guia de com proposar canvis, millores i novetats a la proposta final. Crearem una política d'acceptacions el més democràtica possible. Per això, però, necessitem enriquir de contingut i de propostes l'iniciativa, i sobretot, necessitem gent amb coneixements constitucionals a la sala :)
+
+## Objectiu
+
+L'objectiu és poder treballar durant uns mesos en un text que reflexi les idees, ja implícites en punts específics i en decrets, i la voluntat de com més catalans, millor.
+
+L'objectiu és que, un cop el text tingui el contingut suficient com per a poder ser presentat, nosaltres mateix entregarem una còpia escrita i física a tots els partits polítics de Catalunya, així com a la mesa del Parlament, i les entitats socials de Catalunya que vulguin ser partíceps.
+
+Creiem que la gent no només ha de votar la constitució.
+També ha de participar en la seva creació. Formar-ne part.
