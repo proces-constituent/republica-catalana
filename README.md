@@ -16,5 +16,5 @@ Aquests son alguns enllaços per a començar a participar.
 Aquest es un grup completament anònim. Som la veu del poble, i només la veu del poble. Vols participar i no saps com? Bé, és bastant senzill. Simplement obre't un nou compte a Github. Recorda. És molt preferible que agafis un compte completament anònim.
 Un cop tinguis el compte creat, aqui algunes pistes.
 
-- Issue -> Aqui posarem tota la conversa. Es tracta de discutir els punts que s'han obert, i de obrir-ne de nous. Al més estil forum.
-- Pull Request -> De moment, dir-vos que és un mecanisme de construcció. Més endavant ja us farem una petita guia de com proposar canvis, millores i novetats a la proposta final. Crearem una política d'acceptacions el més democràtica possible. Per això, però, necessitem enriquir de contingut i de propostes l'iniciativa, i sobretot, necessitem gent amb coneixements constitucionals a la sala :)
+- [Issue](https://github.com/constituci-os/republica-catalana/issues) - Aqui posarem tota la conversa. Es tracta de discutir els punts que s'han obert, i de obrir-ne de nous. Al més estil forum.
+- [Pull Request](https://github.com/constituci-os/republica-catalana/pulls) -> De moment, dir-vos que és un mecanisme de construcció. Més endavant ja us farem una petita guia de com proposar canvis, millores i novetats a la proposta final. Crearem una política d'acceptacions el més democràtica possible. Per això, però, necessitem enriquir de contingut i de propostes l'iniciativa, i sobretot, necessitem gent amb coneixements constitucionals a la sala :)
